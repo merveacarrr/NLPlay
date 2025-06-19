@@ -176,14 +176,14 @@ Bu proje eğitim amaçlı geliştirilmiştir. Akademik çalışmalarda kullanım
         <img src="https://avatars.githubusercontent.com/u/85066658?v=4" width="100px;" alt=""/>
         <br /><sub><b>meryemarpaci</b></sub>
       </a><br />
-      <sub>💻 Kod</sub>
+      <sub></sub>
     </td>
     <td align="center">
       <a href="https://github.com/merveacarrr">
         <img src="https://avatars.githubusercontent.com/u/KULLANICI_ID?v=4" width="100px;" alt=""/>
         <br /><sub><b>merveacar</b></sub>
       </a><br />
-      <sub>💡 Fikir / 📄 Dokümantasyon</sub>
+      <sub></sub>
     </td>
   </tr>
 </table>

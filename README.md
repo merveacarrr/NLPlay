@@ -173,20 +173,21 @@ Bu proje eğitim amaçlı geliştirilmiştir. Akademik çalışmalarda kullanım
   <tr>
     <td align="center">
       <a href="https://github.com/meryemarpaci">
-        <img src="https://avatars.githubusercontent.com/u/85066658?v=4" width="100px;" alt=""/>
+        <img src="https://github.com/meryemarpaci.png?size=100" width="100px;" alt="meryemarpaci"/>
         <br /><sub><b>meryemarpaci</b></sub>
       </a><br />
       <sub></sub>
     </td>
     <td align="center">
       <a href="https://github.com/merveacarrr">
-        <img src="https://avatars.githubusercontent.com/u/KULLANICI_ID?v=4" width="100px;" alt=""/>
-        <br /><sub><b>merveacar</b></sub>
+        <img src="https://github.com/merveacarrr.png?size=100" width="100px;" alt="merveacarrr"/>
+        <br /><sub><b>merveacarrr</b></sub>
       </a><br />
       <sub></sub>
     </td>
   </tr>
 </table>
+
 
 
 ## İletişim ve Destek

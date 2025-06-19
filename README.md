@@ -167,12 +167,27 @@ Proje modüler bir yapıda tasarlanmıştır:
 
 Bu proje eğitim amaçlı geliştirilmiştir. Akademik çalışmalarda kullanım için uygundur.
 
-### Katkıda Bulunma
+## 🙌 Katkıda Bulunanlar
 
-1. Projeyi fork edin
-2. Yeni özellik için branch oluşturun
-3. Değişikliklerinizi commit edin
-4. Pull request gönderin
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/meryemarpaci">
+        <img src="https://avatars.githubusercontent.com/u/85066658?v=4" width="100px;" alt=""/>
+        <br /><sub><b>meryemarpaci</b></sub>
+      </a><br />
+      <sub>💻 Kod</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/merveacarrr">
+        <img src="https://avatars.githubusercontent.com/u/KULLANICI_ID?v=4" width="100px;" alt=""/>
+        <br /><sub><b>merveacar</b></sub>
+      </a><br />
+      <sub>💡 Fikir / 📄 Dokümantasyon</sub>
+    </td>
+  </tr>
+</table>
+
 
 ## İletişim ve Destek
 
